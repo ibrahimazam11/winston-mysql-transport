@@ -1,4 +1,4 @@
-# winston-mysql
+# winston-mysql-transport
 MySQL transport plugin for winston@3.x logger
 
 #### <https://github.com/ibrahimazam11/winston-mysql-transport.git> #
@@ -124,7 +124,7 @@ That is great for searching & parsing, but it only supports MySQL 5.7+.
 Install via npm:
 
 ```sh
-$ npm install winston-mysql
+$ npm install winston-mysql-transport
 ```
 
 documentation
