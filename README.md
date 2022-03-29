@@ -1,7 +1,7 @@
 # winston-mysql
 MySQL transport plugin for winston@3.x logger
 
-#### <https://github.com/charles-zh/winston-mysql> #
+#### <https://github.com/ibrahimazam11/winston-mysql-transport.git> #
 
 introduction
 ------------
@@ -130,7 +130,7 @@ $ npm install winston-mysql
 documentation
 -------------
 
-Head over to <https://github.com/charles-zh/winston-mysql>
+Head over to <https://github.com/ibrahimazam11/winston-mysql-transport.git>
 
 run tests
 -------------
@@ -158,6 +158,7 @@ authors
 -------
 
 charles-zh
+ibrahimazam11
 
 
 

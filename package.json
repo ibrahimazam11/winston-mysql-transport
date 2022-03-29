@@ -4,7 +4,7 @@
   "description": "MySQL transport plugin for winston@3.x logger",
   "main": "lib/mysql_transport.js",
   "bugs": {
-    "url": "https://github.com/charles-zh/winston-mysql/issues"
+    "url": "https://github.com/ibrahimazam11/winston-mysql-transport/issues"
   },
   "dependencies": {
     "@types/winston": "^2.4.4",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/charles-zh/winston-mysql.git"
+    "url": "git+https://github.com/ibrahimazam11/winston-mysql-transport.git"
   },
   "keywords": [
     "mysql",
@@ -28,9 +28,9 @@
     "plugin",
     "testing"
   ],
-  "author": "charles-zh",
+  "author": "ibrahimazam11",
   "license": "MIT",
-  "homepage": "https://github.com/charles-zh/winston-mysql#readme",
+  "homepage": "https://github.com/ibrahimazam11/winston-mysql-transport.git#readme",
   "devDependencies": {
     "winston": "~3.x",
     "chai": "^4.3.4",
